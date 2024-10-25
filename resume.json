@@ -1,0 +1,128 @@
+{
+  "selectedTemplate": 2,
+  "headings": {
+    "education": "Education",
+    "skills": "Skills",
+    "projects": "Projects",
+    "awards": "",
+    "work": "Work"
+  },
+  "basics": {
+    "name": "Yash Kolambekar",
+    "phone": "+91 9324612161",
+    "website": "",
+    "location": {
+      "address": "Mumbai, India"
+    },
+    "email": "hi@yassh.in"
+  },
+  "education": [
+    {
+      "area": "Computer Science",
+      "studyType": "BSc",
+      "startDate": "Jun 2023",
+      "endDate": "2026",
+      "institution": "University of Mumbai",
+      "location": "Mumbai"
+    },
+    {
+      "institution": "KJ Somaiya College of Science and Commerce",
+      "location": "Mumbai",
+      "studyType": "HSC / 12th",
+      "area": "PCM + Electronics",
+      "startDate": "2021",
+      "endDate": "2023"
+    }
+  ],
+  "work": [
+    {
+      "location": "Remote",
+      "position": "Independent Contractor",
+      "website": "",
+      "highlights": [
+        "Design and Develop Websites for Various Clients from different sectors ranging from Music Artists to Businesses",
+        "Handle deployments and Provide Bug FIxes regularly",
+        "Maintain High Uptime and do minimal downtime deployments"
+      ],
+      "startDate": "May 2023",
+      "endDate": "Present"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Javascript",
+        "PHP",
+        "Python"
+      ],
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": [
+        "ReactJS",
+        "TailwindCSS",
+        "Recoil",
+        "Redux",
+        "Javascript"
+      ],
+      "name": "Frontend Technologies"
+    },
+    {
+      "keywords": [
+        "Laravel",
+        "NextJS",
+        "SQL"
+      ],
+      "name": "Backend Technologies"
+    },
+    {
+      "keywords": [
+        "Linux",
+        "Self Hosting"
+      ],
+      "name": "Miscellaneous"
+    }
+  ],
+  "projects": [
+    {
+      "name": "IDOL CS",
+      "description": "A knowledge sharing website for students of University of Mumbai which allows them to share notes and updates regarding to their classwork and exams. Handles File Uploads, File Downloads and Multiple Users + Admins model using Google Authentication",
+      "keywords": [
+        "Laravel",
+        "Inertia",
+        "ReactJS",
+        "Redux"
+      ],
+      "url": "https://idolcs.com"
+    },
+    {
+      "keywords": [
+        "Telegram Bot API",
+        "ReactJS",
+        "Laravel",
+        "Redux"
+      ],
+      "name": "TeleS3",
+      "description": "An unlimited file sharing and hosting platform powered by Telegram Bot API and Laravel at the Backend with React at the frontend. Allows users to upload the file and access them from anywhere with a simple 5 letter indentifier",
+      "url": "https://teles3.yassh.in"
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "skills",
+    "projects",
+    "work",
+    "education",
+    "awards"
+  ]
+}
