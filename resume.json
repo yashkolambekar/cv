@@ -45,6 +45,17 @@
         "Maintain High Uptime and do minimal downtime deployments"
       ],
       "startDate": "May 2023",
+      "endDate": "Present",
+      "company": "Freelamce"
+    },
+    {
+      "highlights": [
+        null
+      ],
+      "company": "BookMyPuja",
+      "position": "SDE Intern",
+      "location": "Remote",
+      "startDate": "Nov 2024",
       "endDate": "Present"
     }
   ],
@@ -119,9 +130,9 @@
   "sections": [
     "templates",
     "profile",
+    "work",
     "skills",
     "projects",
-    "work",
     "education",
     "awards"
   ]
