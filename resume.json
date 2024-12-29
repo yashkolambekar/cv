@@ -1,5 +1,5 @@
 {
-  "selectedTemplate": 2,
+  "selectedTemplate": 1,
   "headings": {
     "education": "Education",
     "skills": "Skills",
@@ -10,7 +10,7 @@
   "basics": {
     "name": "Yash Kolambekar",
     "phone": "+91 9324612161",
-    "website": "",
+    "website": "https://yassh.in",
     "location": {
       "address": "Mumbai, India"
     },
@@ -46,11 +46,12 @@
       ],
       "startDate": "May 2023",
       "endDate": "Present",
-      "company": "Freelamce"
+      "company": "Freelance"
     },
     {
       "highlights": [
-        null
+        "Singlehandedly developed both frontend and backend of the business facing dashboard",
+        "Used NextJS, RefineJS, Prisma, Tailwind and Zustand to make full stack apps"
       ],
       "company": "BookMyPuja",
       "position": "SDE Intern",
